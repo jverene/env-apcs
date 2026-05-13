@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloFX",
+            "request": "launch",
+            "mainClass": "com.apcs.HelloFX",
+            "projectName": "env-apcs"
+        },
+        {
+            "type": "java",
+            "name": "Run HelloFX",
+            "request": "launch",
+            "mainClass": "com.apcs.Launcher",
+            "projectName": "env-apcs"
+        }
+    ]
+}
